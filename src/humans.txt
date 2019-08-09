@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Ian Knox - null - @ianknox
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Modernizr, Normalize.css, Google Fonts, Primer
+    AWS CloudFront

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+128+Text&display=swap');
+
+h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+@media (min-width: 1px) {
+    h1 {font-size: 112px;}
+    p {font-size: 42px;}
+}
+
+@media (min-width: 515px) {
+    h1 {font-size: 150px;}
+    p {font-size: 56px;}
+}
+
+@media (min-width: 992px) {
+    h1 {font-size: 200px;}
+    p {font-size: 75px;}
+}
+
+#main {
+    font-family: 'Libre Barcode 128 Text', serif;
+    text-align: center;
+}
+#social{
+    text-align: center;
+
+}
